@@ -58,7 +58,7 @@ const CONFIG = {
       link: "https://mail.protonmail.com/",
     },
     {
-      id: "3",
+      id: "4",
       name: "TaskBoard",
       icon: "trello",
       link: "https://tasksboard.com/app",
@@ -73,7 +73,7 @@ const CONFIG = {
 
   secondButtonsContainer: [
     {
-      id: "1",
+      id: "2",
       name: "Music",
       icon: "headphones",
       link: "https://open.spotify.com",
@@ -85,7 +85,7 @@ const CONFIG = {
       link: "https://github.com/H-ADJI",
     },
     {
-      id: "5",
+      id: "6",
       name: "Hashnode",
       icon: "pen-tool",
       link: "https://excalidraw.com/",
