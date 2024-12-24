@@ -52,12 +52,6 @@ const CONFIG = {
 
   firstButtonsContainer: [
     {
-      id: "1",
-      name: "Github",
-      icon: "github",
-      link: "https://github.com/H-ADJI",
-    },
-    {
       id: "2",
       name: "Mail",
       icon: "mail",
@@ -70,16 +64,10 @@ const CONFIG = {
       link: "https://todoist.com",
     },
     {
-      id: "4",
+      id: "6",
       name: "Calendar",
       icon: "calendar",
       link: "https://calendar.google.com/calendar/r",
-    },
-    {
-      id: "6",
-      name: "Youtube",
-      icon: "youtube",
-      link: "https://www.youtube.com/",
     },
   ],
 
@@ -92,9 +80,9 @@ const CONFIG = {
     },
     {
       id: "4",
-      name: "Amazon",
-      icon: "shopping-bag",
-      link: "https://amazon.fr/",
+      name: "Github",
+      icon: "github",
+      link: "https://github.com/H-ADJI",
     },
     {
       id: "5",
