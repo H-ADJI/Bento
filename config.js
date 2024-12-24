@@ -52,7 +52,7 @@ const CONFIG = {
 
   firstButtonsContainer: [
     {
-      id: "2",
+      id: "3",
       name: "Mail",
       icon: "mail",
       link: "https://mail.protonmail.com/",
@@ -73,7 +73,7 @@ const CONFIG = {
 
   secondButtonsContainer: [
     {
-      id: "2",
+      id: "3",
       name: "Music",
       icon: "headphones",
       link: "https://open.spotify.com",
