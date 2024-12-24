@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: "khalil",
+  name: "Khalil",
   imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -61,7 +61,7 @@ const CONFIG = {
       id: "3",
       name: "TaskBoard",
       icon: "trello",
-      link: "https://todoist.com",
+      link: "https://tasksboard.com/app",
     },
     {
       id: "6",
